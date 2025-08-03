@@ -37,3 +37,8 @@ This framework covers the following test cases for the login page:
         mvn clean test
         ```
     * Maven will download all necessary dependencies and execute the TestNG test suite. Test results will be available in the `/target/surefire-reports` directory.
+
+## Output
+
+<img width="1810" height="437" alt="Screenshot 2025-08-03 121951" src="https://github.com/user-attachments/assets/9ec6a43b-2cb6-4ae1-aafe-3d4b0cac889b" />
+
